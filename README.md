@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/HtFacile/HtFacile/blob/master/ezgif-4-b96bc984ff.pdf-1.jpg' title='page d accueil' width='' alt='page d accueil' />
 <img src='https://github.com/HtFacile/HtFacile/blob/master/im2.jpg' title='page d accueil' width='' alt='page d accueil' />
 
-<img src='https://github.com/HtFacile/HtFacile/blob/master/im2.jpg' title='page d accueil' width='' alt='page d accueil' />
+<https://github.com/HtFacile/HtFacile/blob/master/im3.jpg' title='page d accueil' width='' alt='page d accueil' />
 <img src='https://github.com/HtFacile/HtFacile/blob/master/im2.jpg' title='page d accueil' width='' alt='page d accueil' />
 <img src='https://github.com/HtFacile/HtFacile/blob/master/im2.jpg' title='page d accueil' width='' alt='page d accueil' />
 
