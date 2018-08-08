@@ -1,4 +1,4 @@
-# Project 2 - *HtFacile*
+# Project final - *HtFacile*
 
 **HtFacile** is an android app that allows a user to buy articles online on a particular store.
 
@@ -30,7 +30,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/HtFacile/HtFacile/blob/master/ezgif-4-b96bc984ff.pdf-1.jpg' title='Video Walkthrough' width='' alt='page d'accueil' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
