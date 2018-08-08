@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/HtFacile/HtFacile/blob/master/im3.jpg' title='page d accueil' width='' alt='page d accueil' />
 <img src='https://github.com/HtFacile/HtFacile/blob/master/im4.jpg' title='page d accueil' width='' alt='page d accueil' />
-<img src='https://github.com/HtFacile/HtFacile/blob/master/im2.jpg' title='page d accueil' width='' alt='page d accueil' />
+<img src='https://github.com/HtFacile/HtFacile/blob/master/im5.jpg' title='page d accueil' width='' alt='page d accueil' />
 
 
 
