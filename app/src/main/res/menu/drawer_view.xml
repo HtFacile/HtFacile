@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mail_fragment"
+            android:icon="@drawable/ic_mail"
+            android:title="@string/mail"
+            android:checked="true"/>
+
+        <item
+            android:id="@+id/chart_fragment"
+            android:icon="@drawable/ic_local_grocery_store_white_24dp"
+            android:title="@string/chart"/>
+    </group>
+
+    <item android:title="@string/sub_items">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:icon="@drawable/ic_search_white_24dp"
+                    android:title="@string/sub_item_1"/>
+
+                <item
+                    android:icon="@drawable/ic_more_vert_white_24dp"
+                    android:title="@string/settings"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>
