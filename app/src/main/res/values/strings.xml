@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">HtFacile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sub_items">Sub Items</string>
+    <string name="mail">Mail</string>
+    <string name="chart">Chart</string>
+    <string name="sub_item_1">Sub item 1</string>
+    <string name="settings">Settings</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
 </resources>
