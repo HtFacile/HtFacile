@@ -7,25 +7,25 @@
         <item
             android:id="@+id/mail_fragment"
             android:icon="@drawable/ic_mail"
-            android:title="@string/mail"
+            android:name="@string/mail"
             android:checked="true"/>
 
         <item
             android:id="@+id/chart_fragment"
             android:icon="@drawable/ic_local_grocery_store_white_24dp"
-            android:title="@string/chart"/>
+            android:name="@string/chart"/>
     </group>
 
-    <item android:title="@string/sub_items">
+    <item android:name="@string/sub_items">
         <menu>
             <group android:checkableBehavior="single">
                 <item
                     android:icon="@drawable/ic_search_white_24dp"
-                    android:title="@string/sub_item_1"/>
+                    android:name="@string/sub_item_1"/>
 
                 <item
                     android:icon="@drawable/ic_more_vert_white_24dp"
-                    android:title="@string/settings"/>
+                    android:name="@string/settings"/>
             </group>
         </menu>
     </item>

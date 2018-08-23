@@ -2,18 +2,31 @@ package com.example.saincurin.htfacile.ModelData;
 
 public class DataModel {
 
-    String title, image, description, quantity, price; // these must be match with the same in the database
+    private String  description;
+    private String name;
+    private String image;
+    private String price;
+    private String quantity;
 
+
+    //constructor
     public DataModel() {
 
     }
 
-    public String getTitle() {
-        return title;
+    public DataModel(String name, /*String description,*/ String image, String price) {
+        this.name = name;
+//        this.description = description;
+        this.image = image;
+        this.price = price;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     public String getImage() {
